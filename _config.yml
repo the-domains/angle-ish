@@ -1,14 +1,28 @@
+name: Angle-ish
+favicon: null
 layout_spectrum: 0.13273039762862027
 typography_spectrum: 0.14148863148875535
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
+  brandColors:
+    - '#6b6b6b'
+    - '#8b8b8b'
+    - '#010101'
+    - '#323232'
+    - '#dedede'
   brandStrength: 0.9117592156399041
   lightness: 0.04327553976327181
   saturation: 0.479726952733472
   rhythmicContrast: 0.3827874369453639
-  brandColors:
-    - '#F7EDF0'
-    - '#F4CBC6'
-    - '#F4AFAB'
-    - '#F4EEA9'
-    - '#F4F482'
-name: Angle-ish
+purpose: []
