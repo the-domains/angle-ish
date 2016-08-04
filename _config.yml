@@ -1,20 +1,13 @@
 name: Angle-ish
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca4671b-ff42-4564-915b-91cf6fd741c3.jpg
 layout_spectrum: 0.13273039762862027
 typography_spectrum: 0.14148863148875535
-title: life is too short for straightforwardness
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#6b6b6b'
@@ -27,3 +20,10 @@ color:
   saturation: 0.75
   rhythmicContrast: 0.75
 purpose: []
+title: life is too short for straightforwardness
+author:
+  name: 'Roland Tanglao '
+  url: ''
+  email: ''
+content_rating:
+  adult: false
