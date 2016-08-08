@@ -1,29 +1,41 @@
-name: Angle-ish
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca4671b-ff42-4564-915b-91cf6fd741c3.jpg
-layout_spectrum: 0.13273039762862027
-typography_spectrum: 0.14148863148875535
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+title: life is too short for straightforwardness
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.75
+  brandStrength: 0.8125
+  rhythmicContrast: 0.75
   brandColors:
     - '#6b6b6b'
     - '#8b8b8b'
     - '#010101'
     - '#323232'
     - '#dedede'
-  brandStrength: 0.8125
   lightness: 0.875
-  saturation: 0.75
-  rhythmicContrast: 0.75
-purpose: []
-title: life is too short for straightforwardness
+cta: {}
+analytics: {}
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca4671b-ff42-4564-915b-91cf6fd741c3.jpg
 author:
   name: 'Roland Tanglao '
   url: ''
   email: ''
+name: Angle-ish
+opengraph:
+  type: ''
+  appId: ''
+typography_spectrum: 0.1414886314887553
+layout_spectrum: 0.9425349
 content_rating:
   adult: false
