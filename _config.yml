@@ -1,5 +1,10 @@
-title: life is too short for straightforwardness
+name: Angle-ish
+analytics: {}
 purpose: []
+github: true
+author:
+  name: 'Roland Tanglao '
+cta: {}
 collections:
   - index:
       path: /
@@ -12,9 +17,13 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+content: []
+navigation:
+  - type: external
+    name: roland
+    url: 'http://rolandtanglao.com'
+layout_spectrum: 0.9425349
 color:
-  saturation: 1
-  brandStrength: 0.8125
   lightness: 1
   brandColors:
     - '#6b6b6b'
@@ -22,20 +31,13 @@ color:
     - '#010101'
     - '#323232'
     - '#dedede'
+  saturation: 1
+  brandStrength: 0.8125
   rhythmicContrast: 1
-cta: {}
-analytics: {}
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca4671b-ff42-4564-915b-91cf6fd741c3.jpg
-author:
-  name: 'Roland Tanglao '
-  url: ''
-  email: ''
-name: Angle-ish
-opengraph:
-  type: ''
-  appId: ''
-typography_spectrum: 0.1414886314887553
-layout_spectrum: 0.9425349
 content_rating:
   adult: false
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/eca4671b-ff42-4564-915b-91cf6fd741c3.jpg
+typography_spectrum: 0.1414886314887553
+opengraph: {}
+title: life is too short for straightforwardness
